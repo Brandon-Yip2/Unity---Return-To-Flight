@@ -1,0 +1,3 @@
+[NAME=NPC][SPEAKERSPRITE=NPC]You're late, hurry up and get to the testing ground!
+[NAME=Bird][SPEAKERSPRITE=Bird]I was in the bathroom :(
+[NAME=NPC][SPEAKERSPRITE=NPC]Doesn't matter... Go!
