@@ -17,7 +17,7 @@ TagManager:
   - UI
   - Platform
   - NoJump
-  - 
+  - Postprocessing
   - 
   - 
   - 
@@ -45,13 +45,28 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
+  - name: ParallaxSky
+    uniqueID: 4179737471
+    locked: 0
+  - name: ParallaxClouds
+    uniqueID: 369602945
+    locked: 0
+  - name: ParallaxBack
+    uniqueID: 2025099689
+    locked: 0
+  - name: ParallaxMid
+    uniqueID: 3941952153
+    locked: 0
+  - name: ParallaxFront
+    uniqueID: 2453340563
+    locked: 0
+  - name: TileFurthestBack
     uniqueID: 1368218761
     locked: 0
-  - name: Background 2
+  - name: TileSecondBack
     uniqueID: 158353141
     locked: 0
-  - name: Background 3
+  - name: TileFront
     uniqueID: 1380576253
     locked: 0
   - name: Items
