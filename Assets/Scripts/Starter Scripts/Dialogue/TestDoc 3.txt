@@ -1,0 +1,11 @@
+
+[NAME=GreenBird][SPEAKERSPRITE=GreenBird]My mom said said to be careful when climbing in the city
+[NAME=GreenBird][SPEAKERSPRITE=GreenBird]Lots of things will hurt you
+[NAME=GreenBird][SPEAKERSPRITE=GreenBird]Things like that fire over there
+
+
+
+
+
+
+

@@ -1,3 +1,8 @@
-[NAME=NPC][SPEAKERSPRITE=NPC]You're late, hurry up and get to the testing ground!
-[NAME=Bird][SPEAKERSPRITE=Bird]I was in the bathroom :(
-[NAME=NPC][SPEAKERSPRITE=NPC]Doesn't matter... Go!
+
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]STOP THERE YOU
+[NAME=You][SPEAKERSPRITE=You]uh me?
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]Who else?
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]I know you're new around here but your flight training started an hour ago!
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]Hurry up and get to the training ground!
+[NAME=You][SPEAKERSPRITE=You]how rude....
+

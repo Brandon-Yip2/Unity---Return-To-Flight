@@ -1,0 +1,7 @@
+
+[NAME=ConfusedBird][SPEAKERSPRITE=ConfusedBird] If you're looking for the training ground, you need to go up.
+[NAME=ConfusedBird][SPEAKERSPRITE=ConfusedBird] I wonder whats down there though..
+
+
+
+

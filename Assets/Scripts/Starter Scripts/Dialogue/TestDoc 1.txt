@@ -1,0 +1,7 @@
+
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]I see you've already got the hang of this but
+[NAME=You][SPEAKERSPRITE=You]Wait weren't you just back...
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]Use WASD to move and SPACE to jump.
+
+
+

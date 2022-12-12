@@ -1,0 +1,12 @@
+
+[NAME=GreenBird][SPEAKERSPRITE=GreenBird]Be careful of the purple fire whisps too
+[NAME=GreenBird][SPEAKERSPRITE=GreenBird]Press [Left Mouse Button] to throw snowballs and put them out!
+
+
+
+
+
+
+
+
+
