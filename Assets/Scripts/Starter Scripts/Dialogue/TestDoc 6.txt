@@ -1,0 +1,15 @@
+
+[NAME=RedBird][SPEAKERSPRITE=RedBird]You're looking for the flight training area?
+[NAME=RedBird][SPEAKERSPRITE=RedBird]Drop down and take the magic current! I've been playing here all day, it'll launch you straight up!
+
+[NAME=RedBird][SPEAKERSPRITE=RedBird]Just make sure you keep walking forward! Otherwise you might not make it where you want to go...
+
+
+
+
+
+
+
+
+
+

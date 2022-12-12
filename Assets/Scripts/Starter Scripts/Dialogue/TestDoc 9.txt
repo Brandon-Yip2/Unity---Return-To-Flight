@@ -1,0 +1,15 @@
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]You've made it quite far
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]If you are looking to enter the house, press T to open the door.
+[NAME=WatchBird][SPEAKERSPRITE=WatchBird]Doors you can enter will be marked with a slightly green tint.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+[NAME=You][SPEAKERSPRITE=You]WOW this house is huge, whoever lives here must be rich
+[NAME=You][SPEAKERSPRITE=You]Wait, is that a..
+
+
+
+
+
+
+
+
+
+

@@ -1,8 +1,12 @@
 
-[NAME=RedBird][SPEAKERSPRITE=RedBird]You're looking for the flight training area?
-[NAME=RedBird][SPEAKERSPRITE=RedBird]Drop down and take the magic current! I've been playing here all day, it'll take you straight up!
+[NAME=RedBird][SPEAKERSPRITE=RedBird]Oops, that was the wrong slide
+[NAME=RedBird][SPEAKERSPRITE=RedBird]Sorry, I'm pretty new around here and this place seems like it changes every day
 
-[NAME=RedBird][SPEAKERSPRITE=RedBird] ***Note: This is the end of this build, but if you can make it to the other side there are test levels***
+[NAME=RedBird][SPEAKERSPRITE=RedBird]This is definitely the correct slide haha
+[NAME=RedBird][SPEAKERSPRITE=RedBird]Jump down and it'll push you really high up!
+[NAME=RedBird][SPEAKERSPRITE=RedBird]And remember, don't stop walking forward!!!!
+
+
 
 
 

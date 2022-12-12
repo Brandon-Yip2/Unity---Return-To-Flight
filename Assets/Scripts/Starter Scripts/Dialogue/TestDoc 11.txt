@@ -1,0 +1,14 @@
+[NAME=You][SPEAKERSPRITE=You]Who would ever let a spirit in their house?
+[NAME=You][SPEAKERSPRITE=You]Something seems off here..
+
+
+
+
+
+
+
+
+
+
+
+

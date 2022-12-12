@@ -1,0 +1,19 @@
+[NAME=You][SPEAKERSPRITE=You]A dungeon? 
+[NAME=You][SPEAKERSPRITE=You]How is that even possible? I thought I was just in the tree city
+[NAME=You][SPEAKERSPRITE=You]AND MY CLASS, I'M GONNA BE EVEN MORE LATE
+[NAME=You][SPEAKERSPRITE=You]I guess I should just explore and look for a way out
+[NAME=You][SPEAKERSPRITE=You] **** DEVELOPER NOTE ****
+[NAME=You][SPEAKERSPRITE=You] The dungeon isn't fully fleshed out so the build will end here. To be continued
+
+
+
+
+
+
+
+
+
+
+
+
+
